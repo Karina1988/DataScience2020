@@ -1,1 +1,2 @@
-- [Link zum Kaggle-Notebook]([ESA5-RandJulia](https://www.kaggle.com/wolldeern/kernele4136eb95d/))
+- [1. Python/Panda Cleaning Script --coming soon--]()
+- [2. Link zum Kaggle-Notebook]([ESA5-RandJulia](https://www.kaggle.com/wolldeern/kernele4136eb95d/))
