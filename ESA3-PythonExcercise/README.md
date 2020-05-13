@@ -2,4 +2,4 @@
 - Screenshot IDE:
 ![Screenshot-IDE](Screenshot-VisualStudioCode.png)
 
-- Tictactoe in Python
+- [TicTacToe in Python](tictactoe.py)
