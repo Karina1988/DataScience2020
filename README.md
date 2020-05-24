@@ -7,3 +7,4 @@ Table of contents:
 - [ESA4: Python 4 Data Science Excercise](ESA4-Python4DataScienceExcercise)
 - [ESA5: R and Julia Excercise](ESA5-RandJulia)
 - [ESA6: Data Cleaning Exercise](ESA6-DataCleaning)
+- [ESA7: Tool Supported Data Cleaning](ESA7-ToolDataCleaning)
