@@ -1,2 +1,2 @@
-- [1. Python/Panda Cleaning Script](https://www.kaggle.com/wolldeern/beuth-demodata)
-- [2. Link zum Kaggle-Notebook](https://www.kaggle.com/wolldeern/data-cleaning-challenge-handling-missing-values)
+- [1. Link zum Kaggle Notebook: Python/Panda Cleaning Script](https://www.kaggle.com/wolldeern/beuth-demodata)
+- [2. Link zum Kaggle-Notebook: 5-Day Data Cleaning Challenge](https://www.kaggle.com/wolldeern/data-cleaning-challenge-handling-missing-values)
