@@ -1,0 +1,10 @@
+set col: age value: IFMISMATCHED($col, ['Integer'], 80)
+filter type: custom rowType: single row: ISMISSING([first_name, id, last_name, gender, full_name, email, age]) action: Delete
+replacepatterns col: age with: '' on: '-'
+sort order: id
+drop col: id action: Drop
+deduplicate
+derive type: multiple value: ROWNUMBER() order: full_name as: 'id'
+set col: email value: IFMISSING($col, NULL())
+set col: gender value: IFMISSING($col, NULL())
+drop col: full_name action: Drop
