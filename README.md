@@ -8,3 +8,4 @@ Table of contents:
 - [ESA5: R and Julia Excercise](ESA5-RandJulia)
 - [ESA6: Data Cleaning Exercise](ESA6-DataCleaning)
 - [ESA7: Tool Supported Data Cleaning](ESA7-ToolDataCleaning)
+- [ESA8: ML Introduction Exercise](ESA8-ML)
