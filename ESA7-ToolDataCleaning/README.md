@@ -1,2 +1,2 @@
 - [1. Trifacta Wrangler Task](Task1)
-- [2. coming soon](Task2)
+- [2. Task 2](Task2)
