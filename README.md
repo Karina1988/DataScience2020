@@ -9,3 +9,5 @@ Table of contents:
 - [ESA6: Data Cleaning Exercise](ESA6-DataCleaning)
 - [ESA7: Tool Supported Data Cleaning](ESA7-ToolDataCleaning)
 - [ESA8: ML Introduction Exercise](ESA8-ML)
+- [ESA9: Logistic Regression Excercise](ESA9-LogisticRegression)
+- [ESA12: Clustering Excercise](ESA12-Clustering)
