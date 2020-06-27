@@ -11,3 +11,4 @@ Table of contents:
 - [ESA8: ML Introduction Exercise](ESA8-ML)
 - [ESA9: Logistic Regression Excercise](ESA9-LogisticRegression)
 - [ESA12: Clustering Excercise](ESA12-Clustering)
+- [ESA13: Spark Excercise](ESA13-Spark)
