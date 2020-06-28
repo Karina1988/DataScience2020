@@ -10,5 +10,7 @@ Table of contents:
 - [ESA7: Tool Supported Data Cleaning](ESA7-ToolDataCleaning)
 - [ESA8: ML Introduction Exercise](ESA8-ML)
 - [ESA9: Logistic Regression Excercise](ESA9-LogisticRegression)
+- [ESA10: Instance Based Algs KNN Exercise](ESA10-KNN-Iris/knn-iris.ipynb)
+- [ESA11: Decision Trees](ESA11-DecisionTrees)
 - [ESA12: Clustering Excercise](ESA12-Clustering)
 - [ESA13: Spark Excercise](ESA13-Spark)
